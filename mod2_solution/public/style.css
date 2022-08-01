@@ -52,6 +52,31 @@
     }
 }
 
+.section-title{
+    margin-left: auto;
+    margin-right: 0;
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+.section-title p{
+    margin-top: auto;
+    text-align: center;
+}
+
+#alpha{
+    background-color: red;
+}
+
+#bravo{
+    background-color: white;
+}
+
+#charlie{
+    background-color: lightblue;
+}
+
 .col-content{
     margin-left: 10px;
     margin-right: 10px;
@@ -60,13 +85,11 @@
 
 .inner-content{
     background: grey;
-    padding: 5px;
-    border-radius: 3px;
     border: 1px solid black;
 }
 
 .inner-content p {
-    padding: 1px;
+    padding: 10px;
     color: black;
 }
 
