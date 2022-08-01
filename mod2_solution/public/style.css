@@ -57,7 +57,8 @@
     margin-right: 0;
     width: 150px;
     height: 40px;
-    border: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
 }
 
 .section-title p{
