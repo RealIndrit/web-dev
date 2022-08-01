@@ -66,15 +66,15 @@
 }
 
 #alpha{
-    background-color: red;
+    background-color: #D59898;
 }
 
 #bravo{
-    background-color: white;
+    background-color: #C14543;
 }
 
 #charlie{
-    background-color: lightblue;
+    background-color: #E5D198;
 }
 
 .col-content{
@@ -84,7 +84,7 @@
 }
 
 .inner-content{
-    background: grey;
+    background: #999999;
     border: 1px solid black;
 }
 
