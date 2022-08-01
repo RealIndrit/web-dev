@@ -57,7 +57,7 @@
     margin-right: 0;
     width: 150px;
     height: 40px;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .section-title p{
@@ -85,7 +85,7 @@
 
 .inner-content{
     background: #999999;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .inner-content p {
