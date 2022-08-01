@@ -67,14 +67,8 @@ body {
 .container{
     width: 90%;
 }
-.container h2{
-    font-family: 'Lora', serif;
-    color: black;
-    font-weight: bold;
-}
 
-.container h1{
-    font-family: 'Lora', serif;
+.container h1,h2,p{
     color: black;
     font-weight: bold;
 }
